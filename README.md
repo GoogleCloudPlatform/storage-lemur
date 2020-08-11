@@ -40,3 +40,6 @@ order to fiddle with secure xattrs and do other root-y stuff.
 1. `sudo /usr/libexec/lemur-testing/lemur-uat-runner`
 
 Set [uat/README.md](uat/README.md) for more details on running and confgiuring the user acceptance tests.
+
+## Note
+This is not an officially supported Google product
